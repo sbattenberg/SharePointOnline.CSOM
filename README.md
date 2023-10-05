@@ -60,13 +60,11 @@ $cweb.Title
 ```
 Create a credential asset for the Azure Automation account with the name 'O365Credential' and the SharePoint Online credentials.
 
-## Links
+## Installation
+- [PowerShell Gallery - SharePointOnline.CSOM](https://www.powershellgallery.com/packages/SharePointOnline.CSOM)
 
-- [PowerShell Gallery Download](https://www.powershellgallery.com/packages/SharePointOnline.CSOM)
+## License
 - [License Info](https://github.com/sbattenberg/SharePointOnline.CSOM/blob/main/LICENSE)
-
-
-
 
 ----------------
 ### Included third-party software/licensing:
