@@ -63,6 +63,7 @@ Create a credential asset for the Azure Automation account with the name 'O365Cr
 ## Links
 
 [PowerShell Gallery Download](https://www.powershellgallery.com/packages/SharePointOnline.CSOM)
+[Repository] (https://github.com/sbattenberg/SharePointOnline.CSOM)
 
 
 
