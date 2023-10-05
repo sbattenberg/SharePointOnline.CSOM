@@ -74,3 +74,5 @@ Create a credential asset for the Azure Automation account with the name 'O365Cr
 Microsoft.SharePointOnline.CSOM (https://www.nuget.org/packages/Microsoft.SharePointOnline.CSOM)
  - © Microsoft Corporation. All rights reserved (https://go.microsoft.com/fwlink/?LinkId=280198)
 
+----------------
+&copy; [sbattenberg](https://github.com/sbattenberg)
